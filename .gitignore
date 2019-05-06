@@ -1,4 +1,4 @@
 __pycache__/
 .idea/
-/res/
+/res/out/
 Pipfile.lock
